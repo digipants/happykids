@@ -5994,7 +5994,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-image: url(https://happykids.co/assets/images/rainbow.png);
 }
 
 .left-top-pink-circle.blue-circle {
@@ -6010,12 +6010,12 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-image: url(https://happykids.co/assets/images/rainbow.png);
 }
 
 .right-top-pink-circle.blue {
     right: 6%;
-    background-color: #253b70;
+    background-image: url(https://happykids.co/assets/images/rainbow.png);
 }
 
 .white-circle {
