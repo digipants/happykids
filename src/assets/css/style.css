@@ -2720,7 +2720,7 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url("https://happykids.co/assets/images/6329a9b647dd20af76c59aca_Vector%202.svg"), url("https://happykids.co/assets/images/5.svg");
+    background-image: url("https://happykids.co/assets/images/6329a9b647dd20af76c59aca_Vector%202.svg"), url("https://happykids.co/assets/images/6329a9d39e19762ea4d94ea5_Vector%201.svg");
     background-position: 0% 0%, 167% 0%;
     background-size: auto, 69%;
     background-repeat: no-repeat, no-repeat;
@@ -5968,12 +5968,12 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-image: url(https://happykids.co/assets/images/rainbow.png);
+    background-image: url(https://happykids.co/assets/images/Rocket.png);
 }
 
 .right-top-pink-circle.blue {
     right: 6%;
-    background-image: url(https://happykids.co/assets/images/rainbow.png);
+    background-image: url(https://happykids.co/assets/images/Rocket.png);
 }
 
 .white-circle {
@@ -7246,7 +7246,6 @@ blockquote {
     right: auto;
     width: 100px;
     height: 100px;
-    border-radius: 50px;
     background-image: url(https://happykids.co/assets/images/bulb.png);
 }
 
@@ -11765,7 +11764,6 @@ blockquote {
         left: -7%;
         display: block;
         border-radius: 50px;
-        background-color: #253b70;
     }
 
     .banner-small-white-circle {
