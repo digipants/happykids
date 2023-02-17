@@ -5688,10 +5688,10 @@ blockquote {
     top: auto;
     right: 10%;
     bottom: 1%;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     border-radius: 100px;
-    background-image: url(https://happykids.co/assets/images/bulb.png);
+    background-image: url(https://happykids.co/assets/images/6.png);
 }
 
 .section-wrapper {
@@ -7255,10 +7255,10 @@ blockquote {
     top: 40%;
     right: auto;
     bottom: 0%;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     border-radius: 50px;
-    background-image: url(https://happykids.co/assets/images/bulb.png);
+    background-image: url(https://happykids.co/assets/images/7.png);
 }
 
 .banner-medim-blue-circle {
@@ -7267,10 +7267,10 @@ blockquote {
     top: 41%;
     right: 24%;
     bottom: 0%;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height:50px;
     border-radius: 50px;
-    background-image: url(https://happykids.co/assets/images/bulb.png);
+    background-image: url(https://happykids.co/assets/images/7.png);
 }
 
 .right-footer-block {
