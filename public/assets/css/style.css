@@ -2706,7 +2706,7 @@ blockquote {
 }
 
 .section.blue-background {
-    background-color: #253b70;
+    background-color: #dcaf2e;
 }
 
 .section.banner-image {
@@ -2728,7 +2728,7 @@ blockquote {
 
 .section.kids-section {
     padding-top: 0px;
-    background-color: #253b70;
+    background-color: #dcaf2e;
 }
 
 .section.bg-opacity {
@@ -5788,7 +5788,7 @@ blockquote {
 .pink-heading {
     margin-top: 0px;
     margin-bottom: 0px;
-    color: #ff7162;
+    color: #1b355b;
 }
 
 .pink-heading.align-left {
@@ -5838,7 +5838,7 @@ blockquote {
     align-items: flex-start;
     grid-row-gap: 20px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #1b355b;
 }
 
 .card-wrap.white-bg {
@@ -6079,7 +6079,7 @@ blockquote {
     z-index: 5;
     border-style: solid;
     border-width: 10px;
-    border-color: #ff7162;
+    border-color: #1b355b;
     border-radius: 200px;
     -o-object-fit: cover;
     object-fit: cover;
@@ -6108,7 +6108,7 @@ blockquote {
     align-items: center;
     grid-row-gap: 10px;
     border-radius: 30px;
-    background-color: hsla(0, 0%, 100%, 0.2);
+    background-color: hsla(226, 100%, 26%, 0.2);
 }
 
 .kids-wrapper.dark-card-background {
@@ -6213,7 +6213,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #1b355b;
 }
 
 .first-image {
@@ -11248,6 +11248,12 @@ blockquote {
     color: #000;
 }
 
+.mascot{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+
 @media screen and (min-width: 1280px) {
     h1 {
         font-size: 70px;
@@ -12149,6 +12155,11 @@ blockquote {
     }
 }
 
+@media screen and (max-width: 1440px) {
+    .mascot {
+        display: none;
+    }
+}
 @media screen and (min-width: 1440px) {
     h1 {
         margin-bottom: 10px;
@@ -12546,9 +12557,19 @@ blockquote {
     .collection-content-wrap {
         min-height: 145px;
     }
+    .mascot {
+        position: absolute;
+        top: 25%;
+        left: 1.5%;
+    }
 }
 
 @media screen and (min-width: 1920px) {
+    .mascot {
+        position: absolute;
+        top: 25%;
+        left: 1.5%;
+    }
     .coming-soon-wrapper {
         width: 50%;
     }
@@ -14703,6 +14724,9 @@ blockquote {
     .third-nav-dropdown-link-wrap:hover {
         padding-right: 0px;
         padding-left: 0px;
+    }
+    .mascot {
+        display: none;
     }
 }
 
