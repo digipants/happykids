@@ -13025,7 +13025,7 @@ blockquote {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column;
-        background-color: #fff;
+        background-color: #1b355b;
     }
 
     .menu-button {
@@ -13486,7 +13486,7 @@ blockquote {
         -webkit-align-items: flex-start;
         -ms-flex-align: start;
         align-items: flex-start;
-        background-color: #fff;
+        background-color: #1b355b;
     }
 
     .home-banner-left-arrow {
@@ -15568,7 +15568,7 @@ blockquote {
     }
 
     .navbar-link.white {
-        color: #253b70;
+        color: #fff;
     }
 
     .navbar-link.white:hover {
@@ -16204,6 +16204,10 @@ blockquote {
     .collec-heading-programs {
         margin-top: 10px;
     }
+
+    img.navbar-logo {
+        margin-top: 20px;
+    }
 }
 
 @media screen and (max-width: 479px) {
@@ -16748,8 +16752,8 @@ blockquote {
     }
 
     .banner-large-blue-circle {
-        width: 60px;
-        height: 60px;
+        width: 100px;
+        height: 100px;
     }
 
     .banner-medim-blue-circle {
