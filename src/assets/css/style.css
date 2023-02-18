@@ -3780,12 +3780,15 @@ blockquote {
 
 .footer {
     padding-top: 100px;
-    padding-bottom: 60px;
+    padding-bottom: 70px;
     -webkit-box-align: start;
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
-    background-color: #fff7f6;
+    background-image: url("https://happykids.co/assets/images/footer-grass.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
     text-align: center;
 }
 
