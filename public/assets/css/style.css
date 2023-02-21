@@ -6232,7 +6232,7 @@ blockquote {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    width: 31%;
+    width: 50%;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
@@ -6277,7 +6277,7 @@ blockquote {
 }
 
 .card-heading {
-    width: 180px;
+    width: 329px;
     margin-bottom: 0px;
     font-family: Mplusrounded1c, sans-serif;
     color: #253b70;
@@ -11586,7 +11586,7 @@ blockquote {
     }
 
     .card-wrapp {
-        width: 32%;
+        width: 50%;
     }
 
     .card-content-wrap {
@@ -11598,11 +11598,11 @@ blockquote {
     }
 
     .card-heading {
-        width: 179px;
+        width: 379px;
     }
 
     .card-heading.width {
-        width: 229px;
+        width: 329px;
     }
 
     .pink-small-top-left-circle {
