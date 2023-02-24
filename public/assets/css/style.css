@@ -12626,9 +12626,9 @@ blockquote {
 
     .home-banner-image {
         position: absolute;
-        right: -50%;
+        right: -40%;
         height: auto;
-        min-height: 650px;
+        min-height: 550px;
     }
 
     .white-top-left-circle {
