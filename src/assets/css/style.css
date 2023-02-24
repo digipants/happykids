@@ -5998,14 +5998,12 @@ blockquote {
 }
 
 .card-image {
-    position: absolute;
     left: 0%;
     top: 0%;
     right: 0%;
     bottom: auto;
     width: 120px;
     height: 120px;
-    margin-top: -25px;
     border-radius: 30px;
     -o-object-fit: cover;
     object-fit: cover;
