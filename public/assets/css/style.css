@@ -17302,3 +17302,19 @@ blockquote {
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'cocogoose light';
+    src: url('https://happykids.co/assets/images/Cocogoose Pro Light-trial.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'cocogoose ultralight';
+    src: url('https://happykids.co/assets/images/Cocogoose Pro Ultralight-trial.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
