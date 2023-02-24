@@ -5990,7 +5990,8 @@ blockquote {
 }
 
 .home-banner-image {
-    width: 100%;
+    width: 50%;
+    margin-left: 150px;
     -o-object-fit: cover;
     object-fit: cover;
 }
@@ -11524,9 +11525,9 @@ blockquote {
 
     .home-banner-image {
         position: absolute;
-        right: -29px;
+        right: 40px;
         width: auto;
-        height: 650px;
+        height: 500px;
         max-width: none;
     }
 
@@ -12277,8 +12278,8 @@ blockquote {
     }
 
     .home-banner-image {
-        right: -70px;
-        height: 550px;
+        right: -30px;
+        height: 450px;
     }
 
     .white-top-left-circle {
@@ -14730,6 +14731,13 @@ blockquote {
     .mascot {
         display: none;
     }
+
+    .home-banner-image {
+        width: 50%;
+        margin-left: 0px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -15430,7 +15438,7 @@ blockquote {
     }
 
     .home-banner-image {
-        width: 100%;
+        width: 75%;
     }
 
     .kids-card-wrapper {
