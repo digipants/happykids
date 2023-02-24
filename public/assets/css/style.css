@@ -5689,8 +5689,8 @@ blockquote {
     top: auto;
     right: 10%;
     bottom: 1%;
-    width: 100px;
-    height: 100px;
+    width: 92px;
+    height: 98px;
     background-image: url(https://happykids.co/assets/images/Earth.png);
 }
 
@@ -12560,16 +12560,16 @@ blockquote {
 
     .mascot {
         position: absolute;
-        top: 25%;
-        left: 1.5%;
+        top: 45%;
+        left: -5%;
     }
 }
 
 @media screen and (min-width: 1920px) {
     .mascot {
         position: absolute;
-        top: 25%;
-        left: 1.5%;
+        top: 42%;
+        left: 0;
     }
 
     .coming-soon-wrapper {
