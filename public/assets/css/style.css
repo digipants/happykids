@@ -3091,7 +3091,7 @@ blockquote {
     -webkit-transition: color 400ms ease, background-color 400ms ease;
     transition: color 400ms ease, background-color 400ms ease;
     font-family: Mplusrounded1c, sans-serif;
-    color: #1b355b;
+    color: #2d0064;
     font-weight: 900;
     text-align: center;
     letter-spacing: 0.5px;
@@ -3101,7 +3101,7 @@ blockquote {
 .primary-button:hover {
     background-color: #fff;
     opacity: 1;
-    color: #1b355b;
+    color: #2d0064;
 }
 
 .primary-button.full-width {
@@ -5839,7 +5839,7 @@ blockquote {
     align-items: flex-start;
     grid-row-gap: 20px;
     border-radius: 30px;
-    background-color: #1b355b;
+    background-color: #2d0064;
 }
 
 .card-wrap.white-bg {
@@ -6077,7 +6077,7 @@ blockquote {
     z-index: 5;
     border-style: solid;
     border-width: 10px;
-    border-color: #1b355b;
+    border-color: #2d0064;
     border-radius: 200px;
     -o-object-fit: cover;
     object-fit: cover;
@@ -6211,7 +6211,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 50px;
-    background-color: #1b355b;
+    background-color: #2d0064;
 }
 
 .first-image {
@@ -13026,7 +13026,7 @@ blockquote {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column;
-        background-color: #1b355b;
+        background-color: #2d0064;
     }
 
     .menu-button {
@@ -13487,7 +13487,7 @@ blockquote {
         -webkit-align-items: flex-start;
         -ms-flex-align: start;
         align-items: flex-start;
-        background-color: #1b355b;
+        background-color: #2d0064;
     }
 
     .home-banner-left-arrow {
