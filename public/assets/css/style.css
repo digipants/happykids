@@ -12560,15 +12560,17 @@ blockquote {
 
     .mascot {
         position: absolute;
-        top: 45%;
-        left: -5%;
+        width: 240px;
+        top: 60%;
+        left: 0;
     }
 }
 
 @media screen and (min-width: 1920px) {
     .mascot {
         position: absolute;
-        top: 42%;
+        width: 240px;
+        top: 60%;
         left: 0;
     }
 
