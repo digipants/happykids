@@ -5587,7 +5587,7 @@ blockquote {
 
 .main-title {
     margin-bottom: 0px;
-    font-family: 'COCOGOOSE LETTERPRESS', sans-serif;
+    font-family: 'cocogoose', sans-serif;
     color: #fafafa;
     font-weight: 900;
     text-transform: capitalize;
@@ -17290,6 +17290,14 @@ blockquote {
 @font-face {
     font-family: 'Font awesome 6 brands 400 (1)';
     src: url('https://happykids.co/assets/images/6332f2e817e49a2c9327dd25_Font%20Awesome%206%20Brands-Regular-400.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'cocogoose';
+    src: url('https://happykids.co/assets/images/Cocogoose Pro-trial.ttf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
