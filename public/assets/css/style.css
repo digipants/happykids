@@ -4044,7 +4044,7 @@ blockquote {
 }
 
 .paragraph-large {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-size: 18px;
     line-height: 1.5em;
 }
@@ -5613,7 +5613,7 @@ blockquote {
 .small-paragraph {
     max-width: 435px;
     margin-top: 0px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #d4d8e3;
     font-size: 18px;
 }
@@ -5861,7 +5861,7 @@ blockquote {
 .dark-paragraph {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #425175;
 }
 
@@ -5937,7 +5937,7 @@ blockquote {
 .white-paragraph {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
 }
 
@@ -6281,7 +6281,7 @@ blockquote {
 
 .card-paragraph {
     margin-top: 0px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #425175;
 }
 
@@ -7073,23 +7073,23 @@ blockquote {
 }
 
 .paragraph-8 {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .paragraph-9 {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .paragraph-10 {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .paragraph-11 {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .paragraph-12 {
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .success-message {
@@ -12344,7 +12344,7 @@ blockquote {
     }
 
     .paragraph-8 {
-        font-family: Roboto, sans-serif;
+        font-family: 'raleway', sans-serif;
     }
 
     .banner-large-blue-circle {
