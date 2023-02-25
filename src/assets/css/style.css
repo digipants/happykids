@@ -2424,7 +2424,7 @@ h6 {
 p {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #425175;
     font-size: 16px;
     line-height: 1.5em;
@@ -5799,7 +5799,7 @@ blockquote {
 .description {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Roboto, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 18px;
 }
@@ -17334,6 +17334,14 @@ blockquote {
 @font-face {
     font-family: 'cocogoose thin';
     src: url('https://happykids.co/assets/images/Cocogoose Pro Thin-trial.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('https://happykids.co/assets/images/Raleway-VariableFont_wght.ttf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
