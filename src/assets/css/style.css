@@ -3090,7 +3090,7 @@ blockquote {
     background-color: #f9cb16;
     -webkit-transition: color 400ms ease, background-color 400ms ease;
     transition: color 400ms ease, background-color 400ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
     text-align: center;
@@ -3383,7 +3383,7 @@ blockquote {
 
 .license-link {
     margin-right: 50px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 700;
     letter-spacing: normal;
@@ -3396,7 +3396,7 @@ blockquote {
 .banner-title {
     width: 700px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     text-align: center;
     text-transform: capitalize;
@@ -3404,7 +3404,7 @@ blockquote {
 
 .licensing-heading {
     margin-bottom: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -3550,7 +3550,7 @@ blockquote {
 }
 
 .text-center {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     text-align: center;
 }
@@ -3596,7 +3596,7 @@ blockquote {
 
 .changelog-heading {
     margin-bottom: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -3635,7 +3635,7 @@ blockquote {
 
 .coming-soon-heading {
     margin-top: 60px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     text-transform: capitalize;
 }
@@ -3971,7 +3971,7 @@ blockquote {
 
 .values-counter-number {
     margin-bottom: 15px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
 }
 
@@ -3991,7 +3991,7 @@ blockquote {
 }
 
 .career-position {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 18px;
     line-height: 24px;
@@ -4114,7 +4114,7 @@ blockquote {
 .pricing-plan-item-title {
     margin-top: 0px;
     margin-bottom: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -4133,21 +4133,21 @@ blockquote {
 }
 
 .pricing-plan-price {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 56px;
 }
 
 .pricing-plan-currency-icon {
     margin-right: 2px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-size: 20px;
     font-weight: 700;
 }
 
 .section-title {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
     text-transform: capitalize;
@@ -4373,7 +4373,7 @@ blockquote {
 }
 
 .accordion-title {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     text-transform: capitalize;
 }
@@ -4439,7 +4439,7 @@ blockquote {
 
 .testimonials-profile-title {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
     font-size: 18px;
     line-height: 1.1em;
@@ -4581,7 +4581,7 @@ blockquote {
     padding-bottom: 0px;
     -webkit-transition: all 300ms ease;
     transition: all 300ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -4874,7 +4874,7 @@ blockquote {
     background-color: #fff;
     -webkit-transition: border 400ms ease, color 400ms ease, background-color 400ms ease;
     transition: border 400ms ease, color 400ms ease, background-color 400ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
     text-align: center;
@@ -5015,7 +5015,7 @@ blockquote {
     background-color: transparent;
     -webkit-transition: color 400ms ease, background-color 400ms ease;
     transition: color 400ms ease, background-color 400ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
     font-weight: 900;
     letter-spacing: 0.5px;
@@ -5630,7 +5630,7 @@ blockquote {
     max-width: 117px;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 25px;
     line-height: 1.1em;
@@ -5850,7 +5850,7 @@ blockquote {
 .left-card-heading {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
 }
 
@@ -6275,7 +6275,7 @@ blockquote {
 .card-heading {
     width: 329px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -6464,7 +6464,7 @@ blockquote {
     margin-bottom: 0px;
     -webkit-transition: color 300ms ease;
     transition: color 300ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     line-height: 1em;
     font-weight: 900;
@@ -6479,7 +6479,7 @@ blockquote {
 }
 
 .collect-link {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-weight: 900;
     text-decoration: underline;
     text-transform: capitalize;
@@ -6807,7 +6807,7 @@ blockquote {
 .navbar-link {
     padding-right: 10px;
     padding-left: 10px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ffffff;
     font-weight: 600;
 }
@@ -6843,7 +6843,7 @@ blockquote {
     margin-bottom: 0px;
     -webkit-transition: color 400ms ease;
     transition: color 400ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #f9f9f9;
     font-size: 18px;
     font-weight: 900;
@@ -7043,7 +7043,7 @@ blockquote {
     background-color: #fff;
     -webkit-transition: border 400ms ease, color 400ms ease, background-color 400ms ease;
     transition: border 400ms ease, color 400ms ease, background-color 400ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
     text-align: center;
@@ -7094,12 +7094,12 @@ blockquote {
 
 .success-message {
     background-color: #2d0064;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
 }
 
 .text-block-2 {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
 }
 
 .link-block-overflow {
@@ -7129,7 +7129,7 @@ blockquote {
     margin-bottom: 0px;
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     line-height: 1em;
 }
@@ -7223,7 +7223,7 @@ blockquote {
 }
 
 .content-block-link {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-weight: 900;
     text-decoration: underline;
     text-transform: capitalize;
@@ -7339,7 +7339,7 @@ blockquote {
 
 .banner-heading {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-weight: 900;
     text-align: center;
@@ -7401,7 +7401,7 @@ blockquote {
     max-width: 110px;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 30px;
     line-height: 1.1em;
@@ -8337,7 +8337,7 @@ blockquote {
 
 .about-us-heading {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -8641,7 +8641,7 @@ blockquote {
     align-items: center;
     border: 2px dashed #000;
     border-radius: 50px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
     font-size: 30px;
 }
@@ -8705,7 +8705,7 @@ blockquote {
 .card-content {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 30px;
     line-height: 1.1em;
@@ -8882,7 +8882,7 @@ blockquote {
 }
 
 .card-teacher-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 24px;
     line-height: 1.1em;
@@ -8909,7 +8909,7 @@ blockquote {
 
 .career-heading {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -8920,13 +8920,13 @@ blockquote {
 
 .job-rich-text h2 {
     margin-top: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
 .job-rich-text h4 {
     margin-top: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -8935,7 +8935,7 @@ blockquote {
 }
 
 .job-rich-text h3 {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -9325,7 +9325,7 @@ blockquote {
 }
 
 .blog-post-main-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 50px;
     text-transform: capitalize;
@@ -9380,7 +9380,7 @@ blockquote {
 }
 
 .password-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -9588,7 +9588,7 @@ blockquote {
 
 .pricing-card-number {
     margin-top: 10px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-weight: 900;
 }
@@ -9601,7 +9601,7 @@ blockquote {
 }
 
 ._404-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 120px;
 }
@@ -9659,7 +9659,7 @@ blockquote {
 }
 
 .admission-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 24px;
     font-weight: 900;
@@ -9728,7 +9728,7 @@ blockquote {
 }
 
 .calendar-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
 }
 
@@ -9736,7 +9736,7 @@ blockquote {
     width: 64%;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 18px;
     font-weight: 900;
@@ -9752,7 +9752,7 @@ blockquote {
     justify-content: flex-end;
     border-radius: 10px;
     background-color: #ff7162;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 18px;
     font-weight: 900;
@@ -9760,7 +9760,7 @@ blockquote {
 }
 
 .pink-link {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-weight: 900;
     text-decoration: underline;
     text-transform: capitalize;
@@ -9813,7 +9813,7 @@ blockquote {
 }
 
 .admission-card-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 24px;
     line-height: 1.1em;
@@ -9884,7 +9884,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 50px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
     font-size: 30px;
 }
@@ -10145,7 +10145,7 @@ blockquote {
 .apply-card-heading {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 3px;
 }
@@ -10295,7 +10295,7 @@ blockquote {
 }
 
 .pagination-text {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 18px;
 }
@@ -10400,7 +10400,7 @@ blockquote {
 }
 
 .programs-content-heading {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 18px;
 }
@@ -10437,7 +10437,7 @@ blockquote {
 .programs-price {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #ff7162;
     font-size: 18px;
     line-height: 1em;
@@ -10478,13 +10478,13 @@ blockquote {
 
 .programs-rich-text h2 {
     margin-top: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
 .programs-rich-text h4 {
     margin-top: 20px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     text-transform: capitalize;
 }
@@ -10494,7 +10494,7 @@ blockquote {
 }
 
 .programs-rich-text h3 {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -10772,7 +10772,7 @@ blockquote {
     margin-top: 0px;
     -webkit-transition: color 300ms ease;
     transition: color 300ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 30px;
     line-height: 1em;
@@ -10781,7 +10781,7 @@ blockquote {
 
 .form-field-label {
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-size: 20px;
     font-weight: 900;
 }
@@ -10818,7 +10818,7 @@ blockquote {
     padding: 10px 30px;
     border-radius: 30px;
     background-color: #ff7162;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-size: 18px;
     line-height: 1.5em;
 }
@@ -11070,7 +11070,7 @@ blockquote {
 }
 
 .heading-6 {
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
 }
 
@@ -11141,7 +11141,7 @@ blockquote {
     margin-bottom: 0px;
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 30px;
     line-height: 1em;
@@ -11156,7 +11156,7 @@ blockquote {
 .footer-heading {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 24px;
     line-height: 1em;
@@ -11168,7 +11168,7 @@ blockquote {
     margin-bottom: 0px;
     -webkit-transition: color 300ms ease;
     transition: color 300ms ease;
-    font-family: Mplusrounded1c, sans-serif;
+    font-family: 'raleway', sans-serif;
     color: #2d0064;
     font-size: 30px;
     line-height: 1em;
