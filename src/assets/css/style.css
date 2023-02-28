@@ -6752,7 +6752,7 @@ blockquote {
     -ms-flex: 1;
     flex: 1;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #f9cb16;
 }
 
 .left-blue-image {
@@ -12650,7 +12650,7 @@ blockquote {
     }
 
     .card-wrapp {
-        width: 33%;
+        width: 50%;
     }
 
     .cards-wrap {
@@ -15465,7 +15465,7 @@ blockquote {
     }
 
     .card-heading.width {
-        width: 245px;
+        width: 345px;
     }
 
     .pink-small-top-left-circle {
@@ -16619,7 +16619,7 @@ blockquote {
     }
 
     .card-heading {
-        width: 200px;
+        width: 300px;
     }
 
     .card-heading.width {
