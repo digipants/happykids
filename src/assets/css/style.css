@@ -2439,7 +2439,7 @@ a {
     -webkit-transition: color 300ms ease;
     transition: color 300ms ease;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #f9cb16;
     font-size: 18px;
     line-height: 1.5em;
     text-decoration: none;
@@ -2852,7 +2852,7 @@ blockquote {
     justify-content: center;
     border-right: 1px solid #253b70;
     border-left: 1px none #253b70;
-    background-color: #ff7162;
+    background-color: #2d0064;
     color: #fff;
 }
 
@@ -2861,7 +2861,7 @@ blockquote {
     margin-top: 0px;
     border-left-style: solid;
     border-left-color: #2d0064;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .grid-description {
@@ -2956,7 +2956,7 @@ blockquote {
 .primary-style-guide {
     width: 75px;
     height: 75px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .color-wrapper {
@@ -3294,7 +3294,7 @@ blockquote {
 
 .nav-dropdown-link:hover {
     margin-left: 0px;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .nav-dropdown-link.w--current {
@@ -3302,7 +3302,7 @@ blockquote {
 }
 
 .nav-dropdown-link.w--current:hover {
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .body {
@@ -3666,9 +3666,9 @@ blockquote {
     padding: 10px 20px;
     border-style: solid;
     border-width: 1px;
-    border-color: #ff7162;
+    border-color: #2d0064;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
     -webkit-transition: all 300ms ease;
     transition: all 300ms ease;
     color: #fff;
@@ -3677,7 +3677,7 @@ blockquote {
 
 .blog-sidebar-post-category:hover {
     background-color: #fff;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .blog-template-wrapper {
@@ -3720,7 +3720,7 @@ blockquote {
     margin-right: 25px;
     margin-bottom: 0px;
     font-family: 'Fa solid 900', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .blog-template-pagination-icon {
@@ -3733,7 +3733,7 @@ blockquote {
     margin-bottom: 0px;
     margin-left: 25px;
     font-family: 'Fa solid 900', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .blog-template-prev-button {
@@ -3836,7 +3836,7 @@ blockquote {
     height: 310px;
     min-width: 100%;
     border-radius: 30px;
-    color: #ff7162;
+    color: #2d0064;
     -o-object-fit: cover;
     object-fit: cover;
     -o-object-position: 70% 50%;
@@ -3958,7 +3958,7 @@ blockquote {
     margin-right: 30px;
     padding: 20px;
     border-radius: 15px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .values-counter-item.last-child {
@@ -4440,7 +4440,7 @@ blockquote {
 .testimonials-profile-title {
     margin-bottom: 0px;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 18px;
     line-height: 1.1em;
     text-transform: capitalize;
@@ -4454,7 +4454,7 @@ blockquote {
 .testimonials-star-icons {
     margin-bottom: 20px;
     font-family: 'Fa solid 900', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .light-background {
@@ -4513,7 +4513,7 @@ blockquote {
 .job-position-icon {
     margin-right: 10px;
     font-family: 'Fa solid 900', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 18px;
 }
 
@@ -4760,7 +4760,7 @@ blockquote {
     width: 100%;
     height: 3px;
     margin-bottom: 20px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .search-wrapper {
@@ -4807,7 +4807,7 @@ blockquote {
 .search-input:focus {
     border-style: solid;
     border-width: 1px;
-    border-color: #ff7162;
+    border-color: #2d0064;
 }
 
 .search-result-wrapper {
@@ -4830,7 +4830,7 @@ blockquote {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .headings-container {
@@ -4963,7 +4963,7 @@ blockquote {
     padding: 30px;
     background-color: transparent;
     font-family: Lato, sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 16px;
 }
 
@@ -4999,7 +4999,7 @@ blockquote {
 .play-button-hover:hover {
     border-style: solid;
     border-width: 3px;
-    border-color: #ff7162;
+    border-color: #2d0064;
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
@@ -5010,19 +5010,19 @@ blockquote {
     padding: 10px 30px;
     border-style: solid;
     border-width: 1px;
-    border-color: #ff7162;
+    border-color: #2d0064;
     border-radius: 50px;
     background-color: transparent;
     -webkit-transition: color 400ms ease, background-color 400ms ease;
     transition: color 400ms ease, background-color 400ms ease;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-weight: 900;
     letter-spacing: 0.5px;
 }
 
 .secondary-button:hover {
-    background-color: #ff7162;
+    background-color: #2d0064;
     color: #fff;
 }
 
@@ -5318,7 +5318,7 @@ blockquote {
 }
 
 .blog-details-link-title {
-    color: #ff7162;
+    color: #2d0064;
     line-height: 1.1em;
     font-weight: 700;
 }
@@ -5405,7 +5405,7 @@ blockquote {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .search {
@@ -6175,7 +6175,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .bottom-pink-circle {
@@ -6188,7 +6188,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .white-circle-left {
@@ -6298,7 +6298,7 @@ blockquote {
     width: 25px;
     height: 25px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .pink-small-top-right-circle {
@@ -6308,7 +6308,7 @@ blockquote {
     width: 25px;
     height: 25px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .bottom-blue-circle {
@@ -6404,7 +6404,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .top-blue-circle {
@@ -6522,7 +6522,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .collec-image {
@@ -6549,7 +6549,7 @@ blockquote {
     width: 25px;
     height: 25px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .left-top-pink-circle-copy {
@@ -6560,7 +6560,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .blue-top-right-circle {
@@ -6678,7 +6678,7 @@ blockquote {
     width: 25px;
     height: 25px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .collection-list-3 {
@@ -6887,7 +6887,7 @@ blockquote {
 }
 
 .nav-dropdown-links.w--current:hover {
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .footer-links-wrap {
@@ -6932,7 +6932,7 @@ blockquote {
 }
 
 .footer-phone-link:hover {
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .footer-right-wrapper {
@@ -7057,8 +7057,8 @@ blockquote {
 }
 
 .navbar-button.pink-bg {
-    border-color: #ff7162;
-    background-color: #ff7162;
+    border-color: #2d0064;
+    background-color: #2d0064;
     color: #fff;
 }
 
@@ -7068,8 +7068,8 @@ blockquote {
 }
 
 .navbar-button.style-guide-button:hover {
-    border-color: #ff7162;
-    background-color: #ff7162;
+    border-color: #2d0064;
+    background-color: #2d0064;
 }
 
 .paragraph-8 {
@@ -7312,7 +7312,7 @@ blockquote {
 }
 
 .copyright-link:hover {
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .home-2-banner-wrapper {
@@ -7522,7 +7522,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .home-2-medium-blue-circle {
@@ -7546,7 +7546,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .home-2-white-big-circle {
@@ -7616,7 +7616,7 @@ blockquote {
     align-items: flex-start;
     grid-row-gap: 20px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .home-2-card-wrap.white-background {
@@ -7712,7 +7712,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .left-pink-medium-cirle {
@@ -7724,7 +7724,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .div-block-36 {
@@ -7748,7 +7748,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .div-block-38 {
@@ -7761,7 +7761,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .home-2-section-wrap {
@@ -7830,7 +7830,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .uncoming-event {
@@ -7915,7 +7915,7 @@ blockquote {
     width: 25px;
     height: 25px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .home-2-left-circle {
@@ -7927,7 +7927,7 @@ blockquote {
     width: 45px;
     height: 45px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .left-white-circle {
@@ -8080,7 +8080,7 @@ blockquote {
     width: 45px;
     height: 45px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .medium-pink-circle.top {
@@ -8213,7 +8213,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .about-us-medium-pink-circle {
@@ -8225,7 +8225,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .about-us-medium-blue-circle {
@@ -8300,7 +8300,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .description-wrap {
@@ -8318,7 +8318,7 @@ blockquote {
 .left-description {
     margin-top: 0px;
     margin-bottom: 0px;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 18px;
 }
 
@@ -8414,7 +8414,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .our-history-right-circle {
@@ -8427,7 +8427,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .our-history-blue-circle {
@@ -8464,7 +8464,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .graduates-button-wrap {
@@ -8642,7 +8642,7 @@ blockquote {
     border: 2px dashed #000;
     border-radius: 50px;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 30px;
 }
 
@@ -8726,7 +8726,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .about-us-white-circle {
@@ -8750,7 +8750,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .gallery-circle {
@@ -8762,7 +8762,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .news-blue-circle {
@@ -8787,7 +8787,7 @@ blockquote {
     width: 40px;
     height: 40px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .large-blue-circle {
@@ -8951,7 +8951,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .career-small-pink-circle {
@@ -8962,7 +8962,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .career-medium-blue-circle {
@@ -9012,7 +9012,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .career-right-circle {
@@ -9024,7 +9024,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .career-blue-circle {
@@ -9049,7 +9049,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .careers-blue-circle {
@@ -9095,7 +9095,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .job-blue-circle {
@@ -9118,7 +9118,7 @@ blockquote {
     width: 70px;
     height: 70px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .job-big-blue-circle-copy {
@@ -9163,7 +9163,7 @@ blockquote {
     width: 40px;
     height: 40px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .gallery-blue-small-circle {
@@ -9212,7 +9212,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .gallery-medium-pink-circle {
@@ -9232,7 +9232,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .teacher-blue-circle {
@@ -9256,7 +9256,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .teacher-big-pink-circle.blog-circle-hidden {
@@ -9284,7 +9284,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .faq-small-circle {
@@ -9352,7 +9352,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .blog-blue-circle {
@@ -9376,7 +9376,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .password-heading {
@@ -9399,7 +9399,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 ._401-page-blue-small-circle {
@@ -9423,7 +9423,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 ._401-page-medium-blue-circle {
@@ -9459,7 +9459,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .password-pink-big-circle {
@@ -9498,7 +9498,7 @@ blockquote {
     width: 60px;
     height: 60px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 ._404-page-blue-small-circle {
@@ -9520,7 +9520,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 ._404-page-pink-small-circle {
@@ -9532,7 +9532,7 @@ blockquote {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 ._404-page-medium-blue-circle {
@@ -9729,7 +9729,7 @@ blockquote {
 
 .calendar-heading {
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
 }
 
 .content-calendar {
@@ -9751,7 +9751,7 @@ blockquote {
     -ms-flex-pack: end;
     justify-content: flex-end;
     border-radius: 10px;
-    background-color: #ff7162;
+    background-color: #2d0064;
     font-family: 'raleway', sans-serif;
     color: #fff;
     font-size: 18px;
@@ -9885,7 +9885,7 @@ blockquote {
     align-items: center;
     border-radius: 50px;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 30px;
 }
 
@@ -9933,7 +9933,7 @@ blockquote {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .admission-blue-circle {
@@ -10185,7 +10185,7 @@ blockquote {
 }
 
 .hover-card:hover {
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .apply-card-wrap {
@@ -10282,9 +10282,9 @@ blockquote {
 
 .next {
     padding: 12px 30px;
-    border-color: #ff7162;
+    border-color: #2d0064;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
     -webkit-transition: border-color 400ms ease, background-color 400ms ease;
     transition: border-color 400ms ease, background-color 400ms ease;
 }
@@ -10302,9 +10302,9 @@ blockquote {
 
 .previous-block {
     padding: 12px 30px;
-    border-color: #ff7162;
+    border-color: #2d0064;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
     -webkit-transition: border-color 400ms ease, background-color 400ms ease;
     transition: border-color 400ms ease, background-color 400ms ease;
 }
@@ -10396,7 +10396,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .programs-content-heading {
@@ -10438,7 +10438,7 @@ blockquote {
     margin-top: 0px;
     margin-bottom: 0px;
     font-family: 'raleway', sans-serif;
-    color: #ff7162;
+    color: #2d0064;
     font-size: 18px;
     line-height: 1em;
     font-weight: 900;
@@ -10520,7 +10520,7 @@ blockquote {
     align-items: center;
     grid-column-gap: 40px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .fourth-slide {
@@ -10711,7 +10711,7 @@ blockquote {
     width: 50px;
     height: 50px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .about-us-white-small-circle {
@@ -10733,7 +10733,7 @@ blockquote {
     width: 40px;
     height: 40px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
 }
 
 .blue-programs-circle {
@@ -10817,7 +10817,7 @@ blockquote {
 .form-button-submit {
     padding: 10px 30px;
     border-radius: 30px;
-    background-color: #ff7162;
+    background-color: #2d0064;
     font-family: 'raleway', sans-serif;
     font-size: 18px;
     line-height: 1.5em;
@@ -11498,13 +11498,13 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .right-top-pink-circle {
         display: block;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .right-top-pink-circle.blue {
@@ -11552,7 +11552,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .bottom-pink-circle {
@@ -11565,7 +11565,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .white-circle-left {
@@ -11603,7 +11603,7 @@ blockquote {
 
     .pink-small-top-left-circle {
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .bottom-blue-circle {
@@ -11645,7 +11645,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .top-blue-circle {
@@ -11693,7 +11693,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .blue-top-right-circle {
@@ -11865,7 +11865,7 @@ blockquote {
         width: 60px;
         height: 60px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .pink-left-circle {
@@ -12007,7 +12007,7 @@ blockquote {
         width: 40px;
         height: 40px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .gallery-medium-blue-circle {
@@ -12507,7 +12507,7 @@ blockquote {
         width: 30px;
         height: 30px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .graduates-blue-circle-copy {
@@ -12529,7 +12529,7 @@ blockquote {
         width: 70px;
         height: 70px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .admission-pink-small-circle {
@@ -12551,7 +12551,7 @@ blockquote {
         width: 45px;
         height: 45px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .collection-content-wrap {
@@ -13338,7 +13338,7 @@ blockquote {
     .search-input:focus {
         border-style: solid;
         border-width: 1px;
-        border-color: #ff7162;
+        border-color: #2d0064;
     }
 
     .search-section {
@@ -13618,7 +13618,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .right-top-pink-circle {
@@ -13631,7 +13631,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .white-circle {
@@ -13762,7 +13762,7 @@ blockquote {
         width: 50px;
         height: 50px;
         border-radius: 50px;
-        background-color: #ff7162;
+        background-color: #2d0064;
     }
 
     .left-gallery-wrapper {
