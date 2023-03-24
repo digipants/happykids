@@ -45656,3 +45656,16 @@ digipants.require("ix2").init({
     ],
   },
 });
+
+// Delay time in milliseconds
+const delayTime = 5000;
+
+// Show the popup after the specified delay time
+setTimeout(() => {
+    document.getElementById("popup").style.display = "block";
+}, delayTime);
+
+// Close the popup when the close button is clicked
+document.getElementById("close-button").addEventListener("click", () => {
+    document.getElementById("popup").style.display = "none";
+});
