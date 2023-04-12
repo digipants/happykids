@@ -13076,7 +13076,7 @@ blockquote {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column;
-        background-color: #2d0064;
+        background-color: #dcaf2e;
     }
 
     .menu-button {
@@ -13537,7 +13537,7 @@ blockquote {
         -webkit-align-items: flex-start;
         -ms-flex-align: start;
         align-items: flex-start;
-        background-color: #2d0064;
+        background-color: #dcaf2e;
     }
 
     .home-banner-left-arrow {
