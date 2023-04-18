@@ -13583,12 +13583,9 @@ blockquote {
         width: 35%;
     }
 
-    .navbar-right-wrapper{
-        position: fixed;
-        bottom: 0;
-        right: 0;
-        margin: 20px;
-        min-width: 150px;
+    .navbar-right-wrapper {
+        display: none;
+        width: 50%;
     }
 
     .main-title {

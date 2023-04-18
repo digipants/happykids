@@ -7031,6 +7031,7 @@ blockquote {
 }
 
 .navbar-button {
+    max-width: 150px;
     padding: 10px 30px;
     -webkit-box-align: center;
     -webkit-align-items: center;
@@ -13582,9 +13583,12 @@ blockquote {
         width: 35%;
     }
 
-    .navbar-right-wrapper {
-        display: none;
-        width: 50%;
+    .navbar-right-wrapper{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        margin: 20px;
+        min-width: 150px;
     }
 
     .main-title {
@@ -16266,6 +16270,10 @@ blockquote {
 
     img.navbar-logo {
         margin-top: 20px;
+    }
+
+    .navbar-button {
+        display: block;
     }
 }
 
