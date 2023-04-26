@@ -5769,7 +5769,7 @@ blockquote {
 }
 
 .main-heading.align-left {
-    width: 300px;
+    max-width: 300px;
     color: #2d0064;
 }
 
@@ -6273,7 +6273,7 @@ blockquote {
 }
 
 .card-heading {
-    width: 329px;
+    max-width: 329px;
     margin-bottom: 0px;
     font-family: 'raleway', sans-serif;
     color: #2d0064;
@@ -7031,7 +7031,7 @@ blockquote {
 }
 
 .navbar-button {
-    max-width: 150px;
+    max-width: 200px;
     padding: 10px 30px;
     -webkit-box-align: center;
     -webkit-align-items: center;
@@ -11642,11 +11642,11 @@ blockquote {
     }
 
     .card-heading {
-        width: 379px;
+        max-width: 379px;
     }
 
     .card-heading.width {
-        width: 329px;
+        max-width: 329px;
     }
 
     .pink-small-top-left-circle {
@@ -13583,12 +13583,21 @@ blockquote {
         width: 35%;
     }
 
-    .navbar-right-wrapper{
+    .navbar-right-wrapper {
+        width: 50%;
+        display: none;
+    }
+
+    .chat{
         position: fixed;
-        bottom: 0;
-        right: 0;
-        margin: 20px;
-        min-width: 150px;
+        bottom: 4%;
+        right: 2%;
+        max-width: 150px;
+        padding: 10px 10px;
+        border: solid 1px #fff;
+        border-radius: 100px;
+        background-color: #fff;
+        transition: border 400ms ease, color 400ms ease, background-color 400ms ease;
     }
 
     .main-title {
@@ -13638,7 +13647,7 @@ blockquote {
     }
 
     .main-heading.align-left {
-        width: 320px;
+        max-width: 320px;
         text-align: left;
     }
 
@@ -15516,7 +15525,7 @@ blockquote {
     }
 
     .card-heading.width {
-        width: 345px;
+        max-width: 345px;
     }
 
     .pink-small-top-left-circle {
@@ -16608,7 +16617,7 @@ blockquote {
     }
 
     .main-heading.align-left {
-        width: 300px;
+        max-width: 250px;
     }
 
     .card-wrap {
@@ -16674,11 +16683,11 @@ blockquote {
     }
 
     .card-heading {
-        width: 300px;
+        max-width: 300px;
     }
 
     .card-heading.width {
-        width: auto;
+        max-width: auto;
     }
 
     .pink-small-top-left-circle {
